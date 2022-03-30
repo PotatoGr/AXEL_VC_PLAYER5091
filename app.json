@@ -7,7 +7,7 @@
         "VCBot",
         "MusicPlayer"
     ],
-    "repository": "https://github.com/AXELXDEV/AXEL_VC_PLAYER",
+    "repository": "https://github.com/PotatoGr/AXEL_VC_PLAYER5091",
     "env": {
         "SESSION": {
             "description": "Pyrogram String Session Genrate if from @TELETHON_PYROGRAM_STRINGBOT",
